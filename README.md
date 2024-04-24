@@ -10,7 +10,7 @@ I am a frontend developer with a strong command of programming languages such as
 * 🖥️  See my portfolio at [My Website](https://mohit-jain-portfolio.netlify.app/)
 * ✉️  You can contact me at [mohitjain08102002@gmail.com](mailto:mohitjain08102002@gmail.com)
 * 🚀  I'm currently working on [Java Advanced Projects](http://https://github.com/mohitjain0810)
-* 🧠  I'm learning JAVA, JDBC, SQL, JAVASCRIPT, TYPESCRIPT, REACT, TAILWIND, and many more languages
+* 🧠  I'm learning JAVA, JDBC, SQL, JAVASCRIPT, and many more languages
 * 🤝  I'm open to collaborating on Other drone projects
 * ⚡  I am a shy coder🧑‍💻
 
